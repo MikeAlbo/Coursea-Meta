@@ -1,4 +1,4 @@
-zsh:1: command not found: q
+
 # hello there again and again, ang again 
 ## it has been awhile
 
